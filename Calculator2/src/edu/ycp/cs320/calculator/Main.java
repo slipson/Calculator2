@@ -14,5 +14,9 @@ public class Main {
 		double a = keyboard.nextDouble();
 		double b = keyboard.nextDouble();
 		
+		double c = a + b;
+		
+		System.out.printf("Here is the sum of a and b: %d", c);
+		
 	}
 }
